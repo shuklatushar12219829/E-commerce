@@ -1,7 +1,7 @@
 # Multimart Ecommerce
 
 ## 📌 Live Demo
-[https://multimart-ecommerce.onrender.com](https://multimart-gamma.vercel.app/)
+(https://multimart-gamma.vercel.app/)
 
 ## 😎 Features
 
